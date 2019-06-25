@@ -40,7 +40,9 @@ function sayHiToGrandma(string) {
   return "YES INDEED!"
 }
 
-function sayHi
+function sayHiToGrandma(string) {
+  console.log('I love u, Grandma.')
+}
   
   
 function sayHiToGrandma(string) {
