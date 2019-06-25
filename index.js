@@ -50,6 +50,10 @@ function sayHiToGrandma(string) {
   return "I love you, too."
   
 }
+
+function() {
+    expect(sayHiToGrandma('hello')).toEqual("I can't hear you!")
+  })
     
 
 
