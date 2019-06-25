@@ -44,16 +44,13 @@ function sayHiToGrandma(string) {
   console.log('I love u, Grandma.')
 }
   
-  
-function sayHiToGrandma(string) {
-  if (string ===string."I love u, Grandma."())
-  return "I love you, too."
-  
-}
 
-function() {
-    expect(sayHiToGrandma('hello')).toEqual("I can't hear you!")
-  })
+
+function sayHiToGrandma(string) {
+   if (string ===string.toLowerCase())
+   return "I can't hear you!"
+   
+  }
     
 
 
